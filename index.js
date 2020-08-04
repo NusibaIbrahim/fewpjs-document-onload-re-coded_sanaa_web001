@@ -5,5 +5,5 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 function changeContent(){
-  document.getElementById('text').innerHTML = "";
+  document.getElementById('text').innerHTML = "Nise!";
 }
